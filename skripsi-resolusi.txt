@@ -1,6 +1,5 @@
 SKRIPSI RESOLUSI
 - Segera menemukan topik penelitian
 - Membuat Proposal Skripsi
-- Mengajukan Proposal Skripsi ke Calon Dosen Pembimbing
-- Proposal disetujui oleh Dosen Pembibing
 - Melaksanakan Seminar Proposal Skripsi
+- Mengerjakan Penelitian Skripsi
